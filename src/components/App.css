@@ -1,0 +1,88 @@
+a {
+  cursor: pointer;
+}
+
+.app-layout {
+  height: 100vh;
+}
+
+.app-header {
+  background: #fff;
+  padding: 0px;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
+.app-content {
+  margin: '0 16px';
+  background-color: #f0f2f5;
+  padding: 24px;
+  margin-top: 4rem;
+}
+
+.profile-img {
+  background-color: #a6dbff;
+}
+
+.spin-with-bg {
+  text-align: center;
+  background: rgba(0,0,0,0.05);
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.logo {
+  background-image: url('../logo.svg');
+  height: 42px;
+  margin: 13px auto;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.logo.expanded {
+  height: 20%;
+}
+
+.logo.false {
+  margin: 13px;
+}
+
+.app-footer {
+  text-align: center;
+  background-color: rgba(211, 211, 211, 0.8);
+  padding: 0.8rem;
+}
+.app-footer span {
+  float: right;
+}
+
+.user-fold {
+  width: 94%;
+  display: inline-block;
+  padding-right: 5%;
+  text-align: right;
+}
+
+.user-unfold {
+  width: 56%;
+  display: inline-block;
+  padding-right: 5%;
+  text-align: right;
+}
+
+.user-fold span {
+  display: inline-block;
+}
+
+
+.user-unfold span {
+  display: inline-block;
+}
+
+.profile-img{
+  background-color: #a6dbff;
+}

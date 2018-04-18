@@ -1,0 +1,37 @@
+.btn-right {
+	right: 0px;
+	position: absolute;
+}
+
+.employee-header {
+	background-color: #fff;
+	border-bottom: 1px solid #eee;
+}
+
+.employee-header h3 {
+	font-size: 20px;
+	text-transform: capitalize;
+}
+
+.employee-header .btn-right {
+	top: 15px;
+}
+
+.employee-content {
+	background-color: #fff;
+  padding: 2rem;
+}
+
+.employee-table {
+  background-color: #fff;
+  padding: 2rem;
+  margin-bottom: 2%;
+}
+
+.table-operations {
+	margin-bottom: 1rem;
+}
+
+.form-col {
+	padding: 0.5rem 1rem;
+}

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700i');
+
+
+/*
+.login-page {
+  background-image: url('../images/bg.png');
+  background-size:contain;
+} */
+
+.main-container {
+  min-height: 609px;
+  margin: 5% auto;
+}
+
+.login-form {
+  max-width: 300px;
+}
+
+.login-form-forgot {
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.login-footer {
+  background-color: rgba(211, 211, 211, 0.8);
+  text-align: center;
+  height: 50px;
+}
+
+.login-footer span {
+  float: right;
+}
+
+.text-center {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+.error-alert{
+  width: 500px;
+  margin: 0px auto;
+}
